@@ -1,0 +1,144 @@
+/*
+ *  SilverStore Icon Font by Ali Alamshahi - http://alialamshahi.com
+ *  License - Font: SIL OFL 1.1, CSS: MIT License
+ */
+ 
+@font-face {
+  font-family: 'silverstore';
+  src: url('../fonts/silverstore.eot');
+  src: url('../fonts/silverstore.eot#iefix') format('embedded-opentype'),
+       url('../fonts/silverstore.woff2') format('woff2'),
+       url('../fonts/silverstore.woff') format('woff'),
+       url('../fonts/silverstore.ttf') format('truetype'),
+       url('../fonts/silverstore.svg#silverstore') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ss-"]:before, [class*=" ss-"]:before {
+  font-family: "silverstore";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.ss-cog-wheel:before {
+  content: '\e800';
+}
+.ss-comment:before {
+  content: '\e801';
+}
+.ss-credit-card:before {
+  content: '\e802';
+}
+.ss-customer-service:before {
+  content: '\e803';
+}
+.ss-delivery-truck:before {
+  content: '\e804';
+}
+.ss-delivery-van:before {
+  content: '\e805';
+}
+.ss-envelope:before {
+  content: '\e806';
+}
+.ss-free:before {
+  content: '\e807';
+}
+.ss-heart:before {
+  content: '\e808';
+}
+.ss-left:before {
+  content: '\e809';
+}
+.ss-new:before {
+  content: '\e80a';
+}
+.ss-paper-plane:before {
+  content: '\e80b';
+}
+.ss-phone:before {
+  content: '\e80c';
+}
+.ss-piggy-bank:before {
+  content: '\e80d';
+}
+.ss-place-holder:before {
+  content: '\e80e';
+}
+.ss-right:before {
+  content: '\e80f';
+}
+.ss-sale:before {
+  content: '\e810';
+}
+.ss-search:before {
+  content: '\e811';
+}
+.ss-share:before {
+  content: '\e812';
+}
+.ss-shield:before {
+  content: '\e813';
+}
+.ss-shopping-basket:before {
+  content: '\e814';
+}
+.ss-shopping-cart:before {
+  content: '\e815';
+}
+.ss-star:before {
+  content: '\e816';
+}
+.ss-tag:before {
+  content: '\e817';
+}
+.ss-wallet:before {
+  content: '\e818';
+}
+.ss-weight:before {
+  content: '\e819';
+}
+.ss-arrow-down:before {
+  content: '\e81a';
+}
+.ss-arrow-left:before {
+  content: '\e81b';
+}
+.ss-arrow-right:before {
+  content: '\e81c';
+}
+.ss-arrow-up:before {
+  content: '\e81d';
+}
+.ss-avatar:before {
+  content: '\e81e';
+}
+.ss-badge:before {
+  content: '\e81f';
+}
+.ss-badge-discount:before {
+  content: '\e820';
+}
+.ss-badge-dollar:before {
+  content: '\e821';
+}
+.ss-bank-note:before {
+  content: '\e822';
+}
+.ss-calculator:before {
+  content: '\e823';
+}
+.ss-close:before {
+  content: '\e824';
+}
